@@ -52,7 +52,7 @@ const IndexPage = () => {
               Ms. Zhang enjoys playing music in <b>duos and chamber music</b>. She was fortunate to perform with guest artists and faculties during her study at Wyoming, including playing on the Double Reed Day with guest oboist Ian Wisekal (Faculty at Lamont School of Music) and in a Chamber Music Recital with the guest violinist Holly Mulcahy (Concertmaster of the Chattanooga Symphony & Opera) and Dr. Scott Meredith (Associate Professor at the University of Wyoming.) In past summers, Xi participated in <b>Musica Mundi Chamber Music Festival</b> in Belgium, <b>the Killington Music Festival</b> and the <b>Aspen Music Festival and School</b> in the United States. She has worked individually and in masterclasses with esteemed artists including Jean Barr, Rita Sloan, Warren Jones, Andrew Harley, Libby Larsen, and others.
               </div>
             <div className="mt-3 text-xs text-gray-600">
-              <div><span className="font-bold">Address:</span> 1020 18th St, Boulder, CO 80302 | <span className="font-bold">Email:</span> xizhangpiano@gmail.com | pang.yan@moffett.ai</div>
+              <div><span className="font-bold">Address:</span> 1020 18th St, Boulder, CO 80302 | <span className="font-bold">Email:</span> xizhangpiano@gmail.com | xi.zhang@colorado.edu</div>
             </div>
           </div>
 
@@ -119,7 +119,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Teaching Experiences</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>Ms Zhang has nine-year experience of giving private piano lessons to all-age students.</li>
+                Ms Zhang has nine-year experience of giving private piano lessons to all-age students. Welcome to contact with her.
               </ul>
             </div>
           </div>
