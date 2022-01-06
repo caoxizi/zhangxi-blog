@@ -55,12 +55,8 @@ const IndexPage = () => {
             </div>
           </div>
 
-          {/* <div className="mt-5 text-xs text-gray-600">
-            <div> 949 Sherwood Ave, Suite 200, Los Altos, CA 94022</div>
-            <div>Email: yanpangee@gmail.com | pang.yan@moffett.ai</div>
-          </div> */}
 
-          <div id="educations">
+          <div className="mt-5" id="educations">
             <div className="text-blue-800 text-xl font-bold">Educations</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
