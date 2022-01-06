@@ -61,9 +61,9 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Educations</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>2019.08 - Present, University of Colorado Boulder, Dept. of Electrical Engineering, Doctoral Student</li>
-                <li>2016.08 - 2018.05, University of Wyoming, Dept. of Electrical and Computer Engineering, Master</li>
-                <li>2014.08 - 2016.05, University of Wyoming, Dept. of Piano Performance, Master</li>
+                <li>2019.08 - Present, UCB, Dept. of Electrical Engineering, Doctoral Student</li>
+                <li>2016.08 - 2018.05, UW, Dept. of Electrical and Computer Engineering, Master</li>
+                <li>2014.08 - 2016.05, UW, Dept. of Piano Performance, Master</li>
                 <li>2010.09 - 2014.05, China Conservatory of Music, Dept. of Piano Performance, Bachelor</li>
               </ul>
             </div>
@@ -73,8 +73,8 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Events</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>2021.11 Doctoral degree recital II, Grusin Hall, Imig Music Building, CU Boulder, CO, US</li>
-                <li>2021.09 Doctoral degree recital I,  Grusin Hall, Imig Music Building, CU Boulder, CO, US</li>
+                <li>2021.11 Doctoral degree recital II, Grusin Hall, Imig Music Building, UCB, CO, US</li>
+                <li>2021.09 Doctoral degree recital I,  Grusin Hall, Imig Music Building, UCB, CO, US</li>
                 <li>2019.06 Aspen Music Festival and School/Collaborative Piano Program, Aspen, Colorado, US</li>
               </ul>
             </div>
@@ -84,9 +84,9 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Working Experience</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>2017.08 - Present, teaching assistant at University of Colorado Boulder, Boulder, CO, US</li>
+                <li>2017.08 - Present, teaching assistant at UCB, Boulder, CO, US</li>
                 <li>2015.08 - 2017.05, stuff pianist at String Academy of Wyoming, Laramie, WY, US</li>
-                <li>2014.08 - 2016.05, teaching assistant at University of Wyoming, Laramie, WY, US</li>
+                <li>2014.08 - 2016.05, teaching assistant at UW, Laramie, WY, US</li>
               </ul>
             </div>
           </div>
