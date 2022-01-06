@@ -94,8 +94,8 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Events</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>2021.11 Doctoral degree recital/Grusin Hall, Imig Music Building, University of Colorado Boulder, Boulder, CO, US</li>
-                <li>2021.09 Doctoral degree recital/Grusin Hall, Imig Music Building, University of Colorado Boulder, Boulder, CO, US</li>
+                <li>2021.11 Doctoral degree recital II, Grusin Hall, Imig Music Building, CU Boulder, CO, US</li>
+                <li>2021.09 Doctoral degree recital I,  Grusin Hall, Imig Music Building, CU Boulder, CO, US</li>
                 <li>2019.06 Aspen Music Festival and School/Collaborative Piano Program, Aspen, Colorado, US</li>
               </ul>
             </div>
@@ -105,7 +105,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Working Experience</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>2017.08 - present, teaching assistant at University of Colorado Boulder, Boulder, CO, US</li>
+                <li>2017.08 - Present, teaching assistant at University of Colorado Boulder, Boulder, CO, US</li>
                 <li>2015.08 - 2017.05, stuff pianist at String Academy of Wyoming, Laramie, WY, US</li>
                 <li>2014.08 - 2016.05, teaching assistant at University of Wyoming, Laramie, WY, US</li>
               </ul>
