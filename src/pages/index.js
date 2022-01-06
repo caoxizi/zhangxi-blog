@@ -179,6 +179,8 @@ const IndexPage = () => {
               )}
             </div>
           </div>
+          
+          <div dangerouslySetInnerHTML={{ __html: '<iframe src="//player.bilibili.com/player.html?aid=764426674&bvid=BV1Vr4y1Q7Ao&cid=448659709&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>'}} />
 
           <div id="teaching">
             <div className="text-blue-800 text-xl font-bold">Teaching Experiences</div>
