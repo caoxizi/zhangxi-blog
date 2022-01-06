@@ -43,12 +43,13 @@ const IndexPage = () => {
               <img className="w-full md:w-60" src="https://pbs.twimg.com/media/FH6ETgSVUAoNzMt?format=jpg&name=4096x4096"></img>
             </div>
             <div className="flex-1 ml-3 mt-3 md:mt-0">
-              <p className="font-semibold text-sm" >
-                A Chinese pianist, Xi Zhang, is currently pursuing an DMA in Collaborative Piano at the University of Colorado Boulder studying with Dr. Margaret McDonald and Dr. Alexandra Nguyen.  She holds a MM in Collaborative Piano at CUB and a MM in Piano Performance at the University of Wyoming. She received her bachelor’s degree in Piano Performance from the China Conservatory in Beijing, China. In 2011, she was awarded the Second Prize scholarships for excellent study from China Conservatory of Music. After one year, she won the Third Prize in the Eighth International Piano Competition "Young Virtuosos" (Group IV, up to 23 years old) in Bulgaria and performed at the award concert. In 2015, she won the Second Prize, MTNA State competition in Wyoming.
+              //<p className="font-semibold text-sm" >
+                <p className="mt-3" >
+                A Chinese pianist, <b>Xi Zhang</b>, is currently pursuing an <b>DMA in Collaborative Piano</b> at the University of Colorado Boulder (UCB) studying with Dr. Margaret McDonald and Dr. Alexandra Nguyen. She holds a MM in Collaborative Piano at UCB and a MM in Piano Performance at the University of Wyoming (UW). She received her bachelor’s degree in Piano Performance from the China Conservatory in Beijing, China. In 2011, she was awarded the Second Prize scholarships for excellent study from China Conservatory of Music. After one year, she won the Third Prize in the Eighth International Piano Competition <b>"Young Virtuosos"</b> (Group IV, up to 23 years old) in Bulgaria and performed at the award concert. In 2015, she won the Second Prize, MTNA State competition in Wyoming.
               </p>
             </div>
             <div className="mt-3">
-            Ms. Zhang enjoys playing music in duos and in chamber music. She was fortunate to perform with guest artists and faculties during her study at Wyoming, including playing on the Double Reed Day with guest oboist Ian Wisekal (Faculty at Lamont School of Music) and in a Chamber Music Recital with the guest violinist Holly Mulcahy (Concertmaster of the Chattanooga Symphony & Opera) and Dr. Scott Meredith (Associate Professor at the University of Wyoming.) The past summers Xi participated in “Musica Mundi Chamber Music Festival” in Belgium, the Killington Music Festival in the United States, and the Aspen Music Festival and School. She has worked individually and in masterclasses with esteemed artists including Jean Barr, Rita Sloan, Warren Jones, Andrew Harley, Libby Larsen, and others.
+              Ms. Zhang enjoys playing music in duos and in chamber music. She was fortunate to perform with guest artists and faculties during her study at Wyoming, including playing on the Double Reed Day with guest oboist Ian Wisekal (Faculty at Lamont School of Music) and in a Chamber Music Recital with the guest violinist Holly Mulcahy (Concertmaster of the Chattanooga Symphony & Opera) and Dr. Scott Meredith (Associate Professor at the University of Wyoming.) The past summers Xi participated in “Musica Mundi Chamber Music Festival” in Belgium, the Killington Music Festival in the United States, and the Aspen Music Festival and School. She has worked individually and in masterclasses with esteemed artists including Jean Barr, Rita Sloan, Warren Jones, Andrew Harley, Libby Larsen, and others.
               </div>
             <div className="mt-3 text-xs text-gray-600">
               <div><span className="font-bold">Address:</span> 1020 18th St, Boulder, CO 80302 | <span className="font-bold">Email:</span> xizhangpiano@gmail.com | pang.yan@moffett.ai</div>
@@ -60,10 +61,10 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Educations</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>2017.08 - 2021.12, University of Colorado, Dept. of Electrical Engineering, Ph.D.</li>
-                <li>2015.08 - 2017.05, University of Wyoming, Dept. of Electrical and Computer Engineering, Ph.D. Student</li>
-                <li>2010.09 - 2013.05, Politecnico di Torino, Dept. of Electrical Engineering, Master</li>
-                <li>2005.09 - 2009.05, Henan Polytechnic University, Dept. of Automation, Bachelor</li>
+                <li>2019.08 - Present, University of Colorado Boulder, Dept. of Electrical Engineering, Doctoral Student</li>
+                <li>2016.08 - 2018.05, University of Wyoming, Dept. of Electrical and Computer Engineering, Master</li>
+                <li>2014.08 - 2016.05, University of Wyoming, Dept. of Piano Performance, Master</li>
+                <li>2010.09 - 2014.05, China Conservatory of Music, Dept. of Piano Performance, Bachelor</li>
               </ul>
             </div>
           </div>
