@@ -46,12 +46,12 @@ const IndexPage = () => {
               <p className="font-semibold text-sm" >
                 A Chinese pianist, Xi Zhang, is currently pursuing an DMA in Collaborative Piano at the University of Colorado Boulder studying with Dr. Margaret McDonald and Dr. Alexandra Nguyen.  She holds a MM in Collaborative Piano at CUB and a MM in Piano Performance at the University of Wyoming. She received her bachelor’s degree in Piano Performance from the China Conservatory in Beijing, China. In 2011, she was awarded the Second Prize scholarships for excellent study from China Conservatory of Music. After one year, she won the Third Prize in the Eighth International Piano Competition "Young Virtuosos" (Group IV, up to 23 years old) in Bulgaria and performed at the award concert. In 2015, she won the Second Prize, MTNA State competition in Wyoming.
               </p>
-              <p className="mt-3">
-              Ms. Zhang enjoys playing music in duos and in chamber music. She was fortunate to perform with guest artists and faculties during her study at Wyoming, including playing on the Double Reed Day with guest oboist Ian Wisekal (Faculty at Lamont School of Music) and in a Chamber Music Recital with the guest violinist Holly Mulcahy (Concertmaster of the Chattanooga Symphony & Opera) and Dr. Scott Meredith (Associate Professor at the University of Wyoming.) The past summers Xi participated in “Musica Mundi Chamber Music Festival” in Belgium, the Killington Music Festival in the United States, and the Aspen Music Festival and School. She has worked individually and in masterclasses with esteemed artists including Jean Barr, Rita Sloan, Warren Jones, Andrew Harley, Libby Larsen, and others.
-                </p>
-              <div className="mt-3 text-xs text-gray-600">
-                <div><span className="font-bold">Address:</span> 1020 18th St, Boulder, CO 80302 | <span className="font-bold">Email:</span> xizhangpiano@gmail.com | pang.yan@moffett.ai</div>
+            </div>
+            <div className="mt-3">
+            Ms. Zhang enjoys playing music in duos and in chamber music. She was fortunate to perform with guest artists and faculties during her study at Wyoming, including playing on the Double Reed Day with guest oboist Ian Wisekal (Faculty at Lamont School of Music) and in a Chamber Music Recital with the guest violinist Holly Mulcahy (Concertmaster of the Chattanooga Symphony & Opera) and Dr. Scott Meredith (Associate Professor at the University of Wyoming.) The past summers Xi participated in “Musica Mundi Chamber Music Festival” in Belgium, the Killington Music Festival in the United States, and the Aspen Music Festival and School. She has worked individually and in masterclasses with esteemed artists including Jean Barr, Rita Sloan, Warren Jones, Andrew Harley, Libby Larsen, and others.
               </div>
+            <div className="mt-3 text-xs text-gray-600">
+              <div><span className="font-bold">Address:</span> 1020 18th St, Boulder, CO 80302 | <span className="font-bold">Email:</span> xizhangpiano@gmail.com | pang.yan@moffett.ai</div>
             </div>
           </div>
 
@@ -122,7 +122,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Teaching Experiences</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>Miss Zhang has nine-year experience of giving private piano lessons to all-age students.</li>
+                <li>Ms Zhang has nine-year experience of giving private piano lessons to all-age students.</li>
               </ul>
             </div>
           </div>
