@@ -45,7 +45,7 @@ const IndexPage = () => {
             <div className="flex-1 ml-3 mt-3 md:mt-0">
               <p className="text-sm" >
                 A Chinese pianist, <b>Xi Zhang</b>, is currently pursuing an <b>DMA in Collaborative Piano</b> at the University of Colorado Boulder (UCB) studying with Dr. Margaret McDonald and Dr. Alexandra Nguyen. She holds a MM in Collaborative Piano at UCB and a MM in Piano Performance at the University of Wyoming (UW). She received her bachelor’s degree in Piano Performance from the China Conservatory in Beijing, China.</p> 
-              <p className="text-sm mt-5" >
+              <p className="text-sm mt-2" >
               In 2011, she was awarded <b>the Second Prize scholarships</b> for excellent study from China Conservatory of Music. In 2012, she won the Third Prize in the Eighth International Piano Competition <b>"Young Virtuosos"</b> (Group IV, up to 23 years old) in Bulgaria and performed at the award concert. In 2015, she won the <b>Second Prize</b>, MTNA State competition in Wyoming.</p>      
             </div>
             <div className="ml-1">
