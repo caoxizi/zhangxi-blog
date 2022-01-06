@@ -15,22 +15,22 @@ const IndexPage = () => {
         <div className="max-w-screen-md max-w-screen-lg mx-auto px-5">
           <div className="h-12 flex flex-row flex-wrap content-center items-baseline">
             <div className="mr-5 font-bold">
-              <a href="#top">Yan Pang</a>
-            </div>
-            <div className="mr-5 text-sm text-gray-300 hidden md:block">
-              <a href="#interest">Research Interests</a>
-            </div>
-            <div className="mr-5 text-sm text-gray-300 hidden md:block">
-              <a href="#news">News</a>
+              <a href="#top">Xi Zhang</a>
             </div>
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
               <a href="#educations">Educations</a>
             </div>
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
-              <a href="#publications">Publications</a>
+              <a href="#publications">Events</a>
             </div>
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
-              <a href="#teaching">Teaching Experiences</a>
+              <a href="#work">Work Experiences</a>
+            </div>
+            <div className="mr-5 text-sm text-gray-300 hidden md:block">
+              <a href="#medias">Medias</a>
+            </div>
+            <div className="mr-5 text-sm text-gray-300 hidden md:block">
+              <a href="#teaching">Teaching</a>
             </div>
           </div>
         </div>
@@ -40,7 +40,7 @@ const IndexPage = () => {
         <div className="max-w-screen-md max-w-screen-lg mx-auto px-5 py-16 md:pt-28">
           <div className="flex flex-row flex-wrap">
             <div>
-              <img className="w-full md:w-60" src="https://pbs.twimg.com/media/FH6H1i4UUAEyhAN?format=jpg&name=medium"></img>
+              <img className="w-full md:w-60" src="https://pbs.twimg.com/media/FH6ETgSVUAoNzMt?format=jpg&name=4096x4096"></img>
             </div>
             <div className="flex-1 ml-3 mt-3 md:mt-0">
               <p className="font-semibold text-sm" >
@@ -78,21 +78,6 @@ const IndexPage = () => {
             </div>
           </div>
 
-          <div id="news">
-            <div className="text-blue-800 text-xl font-bold">News</div>
-            <div className="text-sm pl-10 py-3">
-              <ul className="list-disc">
-                <li>[Jan 20, 2022] <b>NEW:</b> Submitted two papers to ICML 2022.</li>
-                <li>[Dec 18, 2021] Received my Ph.D. degree.</li>
-                <li>[Aug 01, 2021] One paper published to Journal of Geophysical Research Letters. </li>
-                <li>[Apr 12, 2021] Joined Moffett AI, Los Altos, CA.</li>
-                <li>[Nov 01, 2020] One paper published to Journal of Computers and Electronics in Agriculture. </li>
-                <li>[Mar 01, 2020] One paper published to Journal of neuroscience method. </li>
-                <li>[Apr 24, 2019] One paper accepted to Science and Information Conference</li>
-              </ul>
-            </div>
-          </div>
-
           <div id="educations">
             <div className="text-blue-800 text-xl font-bold">Educations</div>
             <div className="text-sm pl-10 py-3">
@@ -105,10 +90,31 @@ const IndexPage = () => {
             </div>
           </div>
 
+          <div id="events">
+            <div className="text-blue-800 text-xl font-bold">Events</div>
+            <div className="text-sm pl-10 py-3">
+              <ul className="list-disc">
+                <li>2021.11 Doctoral degree recital/Grusin Hall, Imig Music Building, University of Colorado Boulder, Boulder, CO, US</li>
+                <li>2021.09 Doctoral degree recital/Grusin Hall, Imig Music Building, University of Colorado Boulder, Boulder, CO, US</li>
+                <li>2019.06 Aspen Music Festival and School/Collaborative Piano Program, Aspen, Colorado, US</li>
+              </ul>
+            </div>
+          </div>
+
+          <div id="work">
+            <div className="text-blue-800 text-xl font-bold">Working Experience</div>
+            <div className="text-sm pl-10 py-3">
+              <ul className="list-disc">
+                <li>2017.08 - present, teaching assistant at University of Colorado Boulder, Boulder, CO, US</li>
+                <li>2015.08 - 2017.05, stuff pianist at String Academy of Wyoming, Laramie, WY, US</li>
+                <li>2014.08 - 2016.05, teaching assistant at University of Wyoming, Laramie, WY, US</li>
+              </ul>
+            </div>
+          </div>
 
 
           <div id="medias">
-            <div className="text-blue-800 text-xl font-bold">Online Videos</div>
+            <div className="text-blue-800 text-xl font-bold">Medias</div>
             <div className="w-full" dangerouslySetInnerHTML={{ __html: '<iframe src="//player.bilibili.com/player.html?aid=764426674&bvid=BV1Vr4y1Q7Ao&cid=448659709&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>'}} />
           </div>
 
@@ -117,16 +123,14 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Teaching Experiences</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>2020.01 - Present, JulyEdu, couses include advanced course of computer vision, graph neural networks, object detection, human pose estimation, object tracking, SLAM, C++, et al.</li>
-                <li>2018.08 - 2021.05, Metropolitan State University of Denver, EET/CPE 2350 Advanced Technical Programming, EET/CPE 3330 Digital Circuits/Systems II，EET/CPE 4020 Digital Circuits/Systems III, CPE 4600 VLSI Circuits and Systems.</li>
-                <li>2018.08 - 2021.05, University of Colorado Denver, ELEC 4561 Hardware and Software Interface, ELEC 2531 Logic Lab.</li>
+                <li>Miss Zhang has nine-year experience of giving private piano lessons to all-age students.</li>
               </ul>
             </div>
           </div>
         </div>
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
-          <div>© 2022 Yan Pang. All rights reserved</div>
+          <div>© 2022 Xi Zhang. All rights reserved</div>
           <div>(Last update: Jan 20, 2022.)</div>
         </div>
       </div>
