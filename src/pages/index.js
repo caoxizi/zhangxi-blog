@@ -60,24 +60,6 @@ const IndexPage = () => {
             <div>Email: yanpangee@gmail.com | pang.yan@moffett.ai</div>
           </div> */}
 
-          <div id="interests" className="mt-12">
-            <div className="text-blue-800 text-xl font-bold">Research Interests</div>
-            <p className="text-sm">My research focuses on the broad areas of machine learning, deep learning and their applications on computer vision. Specifically, I focus on </p>
-            <div className="text-sm pl-10 py-3">
-              <ul className="list-disc">
-                <li>Graph Neural Networks</li>
-                <li>Object Detection</li>
-                <li>Key Points Detection</li>
-                <li>Multimodal Learning</li>
-                <li>Knowledge Distillation</li>
-                <li>Photography</li>
-                {/* <li>
-                  <a className="text-blue-600 text-sm" href="https://www.instagram.com/pypancho/" target="_blank">Photography</a>
-                </li> */}
-              </ul>
-            </div>
-          </div>
-
           <div id="educations">
             <div className="text-blue-800 text-xl font-bold">Educations</div>
             <div className="text-sm pl-10 py-3">
@@ -114,8 +96,25 @@ const IndexPage = () => {
 
 
           <div id="medias">
-            <div className="text-blue-800 text-xl font-bold">Medias</div>
-            <div className="w-full" dangerouslySetInnerHTML={{ __html: '<iframe src="//player.bilibili.com/player.html?aid=764426674&bvid=BV1Vr4y1Q7Ao&cid=448659709&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>'}} />
+            <div className="text-blue-800 text-xl font-bold">Online Videos</div>
+            <div className="text-sm pl-10 mt-3 py-3">
+                <div className="m-auto" style={{width: 560}}>
+                    <div  dangerouslySetInnerHTML={{ __html: '<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=764426674&bvid=BV1Vr4y1Q7Ao&cid=448659709&page=1" title="Bilibili video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'}} />
+                    <div className="font-bold my-5 text-center text-lg">Richard Strauss: Afforderung Op. 27 No. 3</div>
+                </div>
+                <div className="m-auto" style={{width: 560}}>
+                    <div  dangerouslySetInnerHTML={{ __html: '<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=719454852&bvid=BV1MQ4y1i7NB&cid=448770679&page=1" title="Bilibili video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'}} />
+                    <div className="font-bold my-5 text-center text-lg">Paul Creston: Sonata for Saxophone and Piano, 1st Movement</div>
+                </div>
+                <div className="m-auto" style={{width: 560}}>
+                    <div  dangerouslySetInnerHTML={{ __html: '<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=634394760&bvid=BV12b4y1q7te&cid=448673004&page=1" title="Bilibili video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'}} />
+                    <div className="font-bold my-5 text-center text-lg">César Franck: A Major Sonata for Violin and Piano</div>
+                </div>
+                <div className="m-auto" style={{width: 560}}>
+                    <div  dangerouslySetInnerHTML={{ __html: '<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=634394838&bvid=BV12b4y1q74H&cid=448760669&page=1" title="Bilibili video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'}} />
+                    <div className="font-bold my-5 text-center text-lg">Alberto Ginastera: Danzas Argentinas</div>
+                </div>
+            </div>
           </div>
 
 
