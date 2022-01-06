@@ -21,7 +21,7 @@ const IndexPage = () => {
               <a href="#educations">Educations</a>
             </div>
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
-              <a href="#publications">Events</a>
+              <a href="#events">Events</a>
             </div>
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
               <a href="#work">Work Experiences</a>
